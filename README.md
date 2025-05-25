@@ -60,7 +60,7 @@ NLP 파이프라인 구축, 데이터 전처리 및 모델 배포 실무 경험
 |------|------|------|------|
 | Python | ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) | PyTorch | ![PyTorch](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg) |
 | TensorFlow | ![TensorFlow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg) | OpenCV | ![OpenCV](https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg) |
-| Pandas | ![Pandas](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg) | MATLAB | ![MATLAB](https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png) |
+| Pandas | ![Pandas](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg) | MATLAB | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/>
 | Bash | ![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg) | Git | ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) |
 | C | ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) | Linux | ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) |
 | MySQL | ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) | Unity | ![Unity](https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg) |
