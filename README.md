@@ -38,6 +38,16 @@ NLP 파이프라인 구축, 데이터 전처리 및 모델 배포 실무 경험
 
 - ⚡ Fun fact **제가 제일 잘하는 건 ‘딴 생각하다가 좋은 아이디어 떠올리기’입니다.**
 
+- | 프로젝트명 | 요약 설명 | 사용 기술 |
+|------------|-----------|------------|
+| Latent Diffusion 기반 인페인팅 | 손상된 이미지를 고화질로 복원하는 이미지 인페인팅 모델 구현 | PyTorch, Diffusers, OpenCV |
+| 전장 상황 인식 LLM 파이프라인 | 군사 시나리오 데이터를 해석하는 LLM 기반 파이프라인 개발 | BERT, LLaMA, LangChain, Gemma |
+| RAG 기반 전장 인지 시스템 | 도메인 특화 데이터 기반 RAG 시스템 구현 | FAISS, BM25, Transformers |
+| DSP 기반 노이즈 제거 | 디지털 신호 처리로 노이즈 필터링 및 실시간 신호 개선 | MATLAB, NumPy |
+| Raspberry Pi 장치 개발 | 센서 통합 임베디드 장치 및 실시간 UI 구현 | Python, GPIO, Flask |
+| 날씨 기반 따릉이 수요 예측 | 날씨 데이터를 활용한 공공 자전거 수요 예측 | Pandas, Scikit-learn, 공공 API |
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
