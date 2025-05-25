@@ -27,8 +27,8 @@ Diffusion 모델, GAN, 이미지 합성 및 인페인팅 관련 생성 모델 �
 
 사용 기술: PyTorch, TensorFlow, CUDA, OpenCV, Hugging Face Diffusers
 
-- 💼 AI R&D 인턴
-AI SmartLabs
+- 💼 AI R&D 인턴 
+AI SmartLabs (non-regular worker)
 
 LLM 프롬프트 엔지니어링, 파인튜닝, 모델 평가 작업 수행
 
