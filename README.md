@@ -53,7 +53,7 @@ NLP 파이프라인 구축, 데이터 전처리 및 모델 배포 실무 경험
 
 | 활동명 | 내용 요약 |
 |--------|-----------|
-| ☁️ Microsoft Learn (Microsoft) | Azure AI Services & AI Foundry 과정 수료. RAG 기반 프롬프트 설계, 콘텐츠 필터링, 책임 AI 설계 등 실무 이해 향상. |
+| ☁️ Microsoft Learn (Microsoft) | Azure AI Services & AI Foundry 과정. RAG 기반 프롬프트 설계, 콘텐츠 필터링, 책임 AI 설계 등 실무 이해 향상. |
 | ☁️ Deep Learning with TensorFlow (IBM, USA) | TensorFlow 기반 딥러닝 모델 구현 실습. CNN, RNN, 역전파, 최적화 등 핵심 기술 습득. |
 
 ### 🛠️ Skill
