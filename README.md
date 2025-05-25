@@ -49,11 +49,12 @@ NLP 파이프라인 구축, 데이터 전처리 및 모델 배포 실무 경험
 | Raspberry Pi 장치 개발 | 센서 통합 임베디드 장치 및 실시간 UI 구현 | Python, GPIO, Flask |
 | 날씨 기반 따릉이 수요 예측 | 날씨 데이터를 활용한 자전거 수요 분석 및 예측 | Pandas, Scikit-learn, 공공 API |
 
+### 🧠 Additional Information
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+| 활동명 | 내용 요약 |
+|--------|-----------|
+| ☁️ Microsoft Learn (Microsoft) | Azure AI Services & AI Foundry 과정 수료. RAG 기반 프롬프트 설계, 콘텐츠 필터링, 책임 AI 설계 등 실무 이해 향상. |
+| Deep Learning with TensorFlow (IBM, USA) | TensorFlow 기반 딥러닝 모델 구현 실습. CNN, RNN, 역전파, 최적화 등 핵심 기술 습득. |
 
 ### 🛠️ Skill
 | Tool | Icon | Tool | Icon |
@@ -65,4 +66,6 @@ NLP 파이프라인 구축, 데이터 전처리 및 모델 배포 실무 경험
 | C | ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) | Linux | ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) |
 | MySQL | ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) | Unity | ![Unity](https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg) |
 | Azure | ![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg) | GCP | ![GCP](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg) |
+
+
 
