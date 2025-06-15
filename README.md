@@ -67,5 +67,7 @@ NLP 파이프라인 구축, 데이터 전처리 및 모델 배포 실무 경험
 | MySQL | ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) | Unity | ![Unity](https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg) |
 | Azure | ![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg) | GCP | ![GCP](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg) |
 
+soon
+
 
 
