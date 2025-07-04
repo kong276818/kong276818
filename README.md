@@ -27,6 +27,11 @@ Diffusion 모델, GAN, 이미지 합성 및 인페인팅 관련 생성 모델 �
 
 사용 기술: PyTorch, TensorFlow, CUDA, OpenCV, Hugging Face Diffusers
 
+- 💼 AI R&D 연구원
+  WoorimICT - AI융합비전팀
+
+
+
 - 💼 AI R&D 인턴 
 AI SmartLabs (non-regular worker)
 
