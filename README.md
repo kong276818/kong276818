@@ -1,5 +1,5 @@
 <h1 align="center">Hello 🔍 I'm JunyoungKong</h1>
-<h3 align="center">Researching LLMs, multimodal AI, and intelligent agents.</h3>
+<h3 align="center">Researching LLMs, multimodal AI, and intelligent agents.</h3> 
 
 ### 🔭 B.S [단국대학교 죽전캠퍼스 전자전기공학부](www.dankook.ac.kr)
 
@@ -9,6 +9,8 @@
 
 ### 👨‍💻 All of my projects are available at [https://danjookkong.tistory.com/](https://danjookkong.tistory.com/)
 
+### 최근 연구
+Balck CAM
 ### 🧪 대학원 연구원 (석사)
 건국대학교 SCLab (2024.07 – 2025.05)
 
