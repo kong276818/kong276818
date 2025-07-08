@@ -5,6 +5,15 @@
 
 ### 👯 M.S [건국대학교 서울캠퍼스 인공지능전공](www.konkuk.ac.kr)
 
+GPA: 3.7 
+
+📡 Signal Processing & Communication Engineering Enthusiast
+Passionate about Digital Signal Processing (DSP), Communication Systems, and Capstone Design Projects using Computer Vision.
+
+🧠 Exploring LLMs and Autonomous Agents
+Actively working on Large Language Models (LLMs) and intelligent agents for real-world AI applications.
+
+
 ### 📝 I regularly write articles on **I regularly write articles on AI, large language models, and multimodal retrieval.**
 
 ### 👨‍💻 All of my projects are available at [https://danjookkong.tistory.com/](https://danjookkong.tistory.com/)
