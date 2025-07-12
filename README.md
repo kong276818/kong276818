@@ -64,6 +64,8 @@ NLP 파이프라인 구축, 데이터 전처리 및 모델 배포 실무 경험
 | DSP 기반 노이즈 제거 | 디지털 신호 처리로 실시간 노이즈 제거 및 개선 | MATLAB, NumPy |
 | Raspberry Pi 장치 개발 | 센서 통합 임베디드 장치 및 실시간 UI 구현 | Python, GPIO, Flask |
 | 날씨 기반 따릉이 수요 예측 | 날씨 데이터를 활용한 자전거 수요 분석 및 예측 | Pandas, Scikit-learn, 공공 API |
+|멀티모달 초분광 영상 분석    | 비가시광 대역 기반 고정밀 분류 및 탐지 실험 수행 (상세 비공개)   | HSI, MWIR, ViT, KAN, PyTorch                  |
+| LLM 쿼리 리라이팅 프레임워크 (RECAST) | 정보 검색 최적화를 위한 구조화된 쿼리 재작성 프레임워크 제안 및 구현 | Transformers, RLHF, ColBERT, FAISS            |
 
 ### 🧠 Additional Information
 
