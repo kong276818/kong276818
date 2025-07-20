@@ -10,7 +10,7 @@ GPA: 3.7
 📡 Signal Processing & Communication Engineering Enthusiast
 Passionate about Digital Signal Processing (DSP), Communication Systems, and Capstone Design Projects using Computer Vision.
 
-🧠 Exploring LLMs and Autonomous Agents
+🧠 Exploring LLMs and Autonomous Agents 
 Actively working on Large Language Models (LLMs) and intelligent agents for real-world AI applications.
 
 
