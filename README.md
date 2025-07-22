@@ -57,6 +57,7 @@ NLP 파이프라인 구축, 데이터 전처리 및 모델 배포 실무 경험
 
 | 프로젝트명 | 요약 설명 | 사용 기술 |
 |------------|-----------|------------|
+|3D 기기들 기반의 특히 360카메라의 3차원 이미지 공간에서의 딥러닝을 이용한 객체 인식 연구 개발|PyTorch, Diffusers, OpenCV| 
 | Latent Diffusion 기반 인페인팅 | 손상된 이미지를 고화질로 복원하는 모델 구현 | PyTorch, Diffusers, OpenCV |
 | 전장 상황 인식 LLM 파이프라인 | 군사 시나리오 데이터를 해석하는 LLM 기반 파이프라인 개발 | BERT, LLaMA, LangChain, Gemma |
 | RAG 기반 전장 인지 시스템 | 도메인 특화 데이터 기반 RAG 시스템 구현 | FAISS, BM25, Transformers |
