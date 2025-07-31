@@ -5,7 +5,6 @@
 
 ### 👯 M.S [건국대학교 서울캠퍼스 인공지능전공](www.konkuk.ac.kr)
 
-GPA: 3.7 
 
 📡 Signal Processing & Communication Engineering Enthusiast
 Passionate about Digital Signal Processing (DSP), Communication Systems, and Capstone Design Projects using Computer Vision.
