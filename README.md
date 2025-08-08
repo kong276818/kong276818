@@ -21,6 +21,7 @@ Actively working on Large Language Models (LLMs) and intelligent agents for real
 Balck CAM
 ### 🧪 대학원 연구원 (석사)
 건국대학교 SCLab (2024.07 – 2025.05)
+휴학중
 
 밀도 기반과 희소 기반을 결합한 하이브리드 검색기(dense-sparse retriever) 구조 연구
 
