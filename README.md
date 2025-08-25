@@ -1,5 +1,5 @@
 <h1 align="center">Hello 🔍 I'm JunyoungKong</h1>
-<h3 align="center">Researching LLMs, multimodal AI, and intelligent agents.</h3> 
+<h3 align="center">Researching LLMs, multimodal AI, and CV.</h3> 
 
 ### 🔭 B.S [단국대학교 죽전캠퍼스 전자전기공학부](www.dankook.ac.kr)
 
