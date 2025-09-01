@@ -83,7 +83,7 @@ NLP 파이프라인 구축, 데이터 전처리 및 모델 배포 실무 경험
 | Pandas | ![Pandas](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg) | MATLAB | <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/>
 | Bash | ![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg) | Git | ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg) |
 | C | ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) | Linux | ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) |
-| MySQL | ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg) | Unity | ![Unity](https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg) |
+| Unity | ![Unity](https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg) |
 | Azure | ![Azure](https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg) | GCP | ![GCP](https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg) |
 
 soon
